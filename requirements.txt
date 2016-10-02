@@ -1,0 +1,3 @@
+scipy
+pyret
+h5py
